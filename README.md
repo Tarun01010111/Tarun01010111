@@ -1,6 +1,9 @@
 # 💫 About Me:
-🚀 Tarun Goswami | BTech Student | Data Science & ML Enthusiast<br>👋 Hi, I'm Tarun, a 2nd-year BTech student at Jaypee University of Engineering and Technology with a passion for Data Science, Machine Learning, and Data Structures.<br><br>🔍 Always exploring new ways to solve problems using AI/ML algorithms and optimizing code with efficient data structures.<br><br>💡 Currently diving deeper into  LLM , Langchain ,Python, TensorFlow, Scikit-learn, and competitive programming.<br><br>📌 Let's connect and collaborate on exciting projects!<br><br>📫 Email: [tarunpuri2544@gmail.com]<br>💼 LinkedIn: [TARUN GOSWAMI]
- <img align="right" alt="coding width="400" src="https://cdn.wallpapersafari.com/71/87/R5ZQj6.gif">
+🚀 Tarun Goswami | BTech Student | Data Science & ML Enthusiast<br>👋 Hi, I'm Tarun, a 2nd-year BTech student at Jaypee University of Engineering and Technology with a passion for Data Science, Machine Learning, and Data Structures.<br><br>🔍 Always exploring new ways to solve problems using AI/ML algorithms and optimizing code with efficient data structures.<br><br>💡 Currently diving deeper into  LLM , Langchain ,Python, TensorFlow, Scikit-learn, and competitive programming.<br><br><img align="right" alt="coding" width="400" src="https://cdn.wallpapersafari.com/71/87/R5ZQj6.gif">
+📌 Let's connect and collaborate on exciting projects!<br><br>
+
+📫 Email: [tarunpuri2544@gmail.com]<br>💼 LinkedIn: [TARUN GOSWAMI]
+
 
 
 ## 🌐 Socials:
